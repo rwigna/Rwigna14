@@ -1,12 +1,6 @@
 
+![wignabom](https://user-images.githubusercontent.com/85144377/127756998-993a56b3-1078-49ef-9eff-267c3951e19c.png)
 
-
- 
-<!-- 
-    &nbsp; [![HitCount](http://hits.dwyl.com/TheDudeThatCode/TheDudeThatCode.svg)](http://hits.dwyl.com/TheDudeThatCode/TheDudeThatCode) 
--->
-
-<img align="right" alt="PC GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif" width="190" />
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> **Hello world!** &nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
@@ -32,7 +26,7 @@
   *JA DEU CERTO !* 🌐**
 - <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/happy.gif" width="20vw" /> *a vida e uma festa, basta aproveita-lá*
  <div>
-
+<img src="https://github.com/favicon.ico" width="48">
 
                                                                                                                                         
 <div style="display: inline_block"><br>
