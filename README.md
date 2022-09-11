@@ -37,9 +37,7 @@
  
  </div>
   
-<a href="https://github.com/TheDudeThatCode">
-  <img  align-items: "center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheDudeThatCode&theme=dark&hide_langs_below=1" />
-</a>
+
 
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif" alt="Mario Game" width="980">
 <br>
