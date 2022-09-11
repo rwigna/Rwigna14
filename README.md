@@ -19,10 +19,10 @@
  
  
 
-- <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/wave.gif" width="20vw" /> **eu amo café* **dormir ** *trabalhar* e **viajar**
-- <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/gandalf_parrot.gif" width="20vw" /> nos ultimos tempos estou  **apredendo  README** e focando  em meus **projetos** 💪.
-- <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/headbang.gif" width="20vw" /> eu estou mudando de carreira  para ** Fullstack e desenvolver diversos projetos**.
-- <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20vw" /> sera que  *MULHER* vs *T.I* vai da certo? 
+- **eu amo café* **dormir ** *trabalhar* e **viajar**
+- Nos últimos tempos estou  **apredendo  README** e focando  em meus **projetos** 💪.
+- Eu estou mudando de carreira  para ** FrontEnd e desenvolver diversos projetos**.
+- Será que  *MULHER* vs *T.I* vai da certo? 
   **JA DEU CERTO !* 🌐**
 
 
@@ -38,7 +38,7 @@
  </div>
   
 <a href="https://github.com/TheDudeThatCode">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheDudeThatCode&theme=dark&hide_langs_below=1" />
+  <img  align-items: "center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheDudeThatCode&theme=dark&hide_langs_below=1" />
 </a>
 
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif" alt="Mario Game" width="980">
