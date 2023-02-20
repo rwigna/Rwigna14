@@ -6,7 +6,9 @@
 
 <p>
   <em>
-   
+    <a href="https://github.com/TheDudeThatCode">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=TheDudeThatCode&show_icons=true&theme=dark&line_height=20" alt="Wigna "/>
+</a>
    
 
 <br>
@@ -15,20 +17,16 @@
  <div>
  ✳️ ✳️ Hoje estou no quarto periodo de  ADS - Analise e Desenvolvimento de Sistemas 👩🏿‍💻
  
-✳️ ✳️  Tenho 27 anos e estou em transição de carreira, yesss ! 💃🏽
+✳️ ✳️  Tenho 28 anos e estou em transição de carreira, yesss ! 💃🏽
  
  
 
 - **eu amo café* **dormir ** *trabalhar* e **viajar**
-- Nos últimos tempos estou  **apredendo  README** e focando  em meus **projetos** 💪.
+- Nos últimos tempos estou  **apredendo  Desenvolvimento Web & FrontEnd ** e focando  em meus **projetos** 💪.
 - Eu estou mudando de carreira  para ** FrontEnd e desenvolver diversos projetos**.
 - Será que  *MULHER* vs *T.I* vai da certo? 
   **JA DEU CERTO !* 🌐**
 
-
- <a href="https://github.com/TheDudeThatCode">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=TheDudeThatCode&show_icons=true&theme=dark&line_height=20" alt="Wigna "/>
-</a>
 
   
  <a href="https://www.instagram.com/r.wigna_dev/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
